@@ -54,3 +54,17 @@ Create a python file called **feet.py** and upload it to this repo. Inside that 
 ```
 14' 3''
 ```
+
+---
+Create a python file called **digit_sum.py** and upload it to this repon. Inside that file write a program that reads a four digit integer and outputs the sum of the digits in the number. 
+
+**Sample Input 1**
+```
+1234
+```
+
+**Output for Sample Input 1**
+```
+10
+```
+
