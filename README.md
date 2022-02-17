@@ -1,4 +1,18 @@
 # 3u-introduction
+---
+
+Create a python file called **words.py** and upload it to this repo. Inside that file write a program that reads a sentence from the user and outputs the number of words. Hint: words are separated by a blank 
+space.
+
+**Sample Input 1**
+```
+Great work Meadowvale Falcons!
+```
+
+**Sample Output 1**
+```
+4
+```
 
 ---
 
